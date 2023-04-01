@@ -9,6 +9,7 @@ body {
 #big_index_title{
     font-variant: small-caps;   
     font-size:100px;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
 #big_index_subtitle{
