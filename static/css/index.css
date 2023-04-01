@@ -6,7 +6,7 @@ body {
     font-family: 'Fraunces', serif;
 }
 
-.big_index_title{
+#big_index_title{
     font-variant: small-caps;   
     font-size:100px;
 }
