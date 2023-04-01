@@ -1,6 +1,9 @@
 body {
     width: 100%;
     height: 100%;
+    background:#000;
+    color:white;
+    font-family: 'Fraunces', serif;
 }
 
 .slideout-menu {
