@@ -11,6 +11,11 @@ body {
     font-size:100px;
 }
 
+#big_index_subtitle{
+    font-variant:small-caps;
+    font-size:32px;
+}
+
 .slideout-menu {
     position: fixed;
     top: 0;
