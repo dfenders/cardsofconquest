@@ -6,6 +6,11 @@ body {
     font-family: 'Fraunces', serif;
 }
 
+.big_index_title{
+    font-variant: small-caps;   
+    font-size:100px;
+}
+
 .slideout-menu {
     position: fixed;
     top: 0;
